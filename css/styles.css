@@ -601,7 +601,7 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  width: 80%;
+  width: 90%;
   height: auto;
 }
 
@@ -11485,7 +11485,7 @@ html {
   opacity: 1;
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
-  font-size: 1.5rem;
+  font-size: 0.5rem;
 }
 
 .portfolio-modal .btn-close {

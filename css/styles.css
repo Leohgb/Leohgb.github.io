@@ -131,17 +131,15 @@
 
 }
 
-.portfolio .portfolio-item {
+.portfolio .habilities img {
   cursor: pointer;
-  position: relative;
-  display: block;
-  max-width: 15rem;
-  border-radius: 0.5rem;
-  overflow: hidden;
+  width: 8%;
+  transition: 1s ease all;
+
 }
 
 
-.portfolio .portfolio-item img:hover {
+.portfolio .habilities img:hover {
   transition: 1s ease all;
   transform: translate(0, -10%);
 }
